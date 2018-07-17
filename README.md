@@ -1,0 +1,2 @@
+# practal-shooter
+CK Project
